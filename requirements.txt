@@ -1,3 +1,6 @@
+Jinja2==2.7.2
+MarkupSafe==0.19
+backports.ssl-match-hostname==3.4.0.2
 husl==2.1.0
 ipython==1.2.1
 moss==0.2.0
@@ -6,9 +9,11 @@ pandas==0.13.1
 patsy==0.2.1
 python-dateutil==2.2
 pytz==2013.9
+pyzmq==14.0.1
 scikit-learn==0.14.1
 scipy==0.13.3
 seaborn==0.2.1
 six==1.5.2
 statsmodels==0.5.0
+tornado==3.2
 wsgiref==0.1.2
