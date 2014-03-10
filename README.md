@@ -21,3 +21,5 @@ sudo pip install virtualenv
 ```
 
 Make a virtualenv using `virtualenv dm2` and activate it with `source bin/activate`. The prompt should change to begin with (dm2). Now install the requirements using `pip install -r requirements.txt` This will take a while. Maybe take the time to look up ipython if you're not familiar? Maybe not. Your call. Perhaps there's something on iplayer.
+
+Wooo it's done. Now you can run `ipython notebook` and a browser window should pop open with a choice of notebooks. Select the dm2 notebook, and you should now have an interactive shell. Shift enter runs a command.
