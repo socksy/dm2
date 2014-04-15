@@ -40,4 +40,5 @@ nosetests.xml
 .pydevproject
 
 
-.ipynb_checkpoints
+.ipynb_checkpoints/*
+.ipynb_checkpoints/predictions-checkpoint.ipynb
