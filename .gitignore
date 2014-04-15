@@ -11,6 +11,8 @@ build
 eggs
 parts
 bin
+man
+src
 include
 share
 var
