@@ -11,6 +11,8 @@ build
 eggs
 parts
 bin
+man
+src
 include
 share
 var
@@ -36,3 +38,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+.ipynb_checkpoints
